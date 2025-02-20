@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+    <g id="MI_INVENTARIO_logo">
+      <polygon id="diamond" points="256,0 512,256 256,512 0,256" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+      <polygon id="triangle" points="128,128 256,256 448,128" fill="#0000FF" stroke="#000000" stroke-width="2"/>
+      <text id="MI" x="256" y="256" font-size="48" font-family="Arial" font-weight="bold" text-anchor="middle" fill="#FFFFFF">MI</text>
+      <text id="INVENTARIO" x="256" y="320" font-size="12" font-family="Arial" font-weight="normal" text-anchor="middle" fill="#FFFFFF">INVENTARIO</text>
+    </g>
+  </svg>
